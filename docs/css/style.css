@@ -1,0 +1,24 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-size: 1.2em;
+    line-height: 1.5;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(232, 225, 236);
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.float {
+    float: right;
+}
+
+.lead {
+    font-size: 1.4em;
+    color: rgba(0,0,0,0.8);
+}
